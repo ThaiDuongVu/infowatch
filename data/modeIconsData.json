@@ -1,0 +1,12 @@
+{
+    "assault": "https://overfast-api.tekrop.fr/static/gamemodes/assault-icon.svg",
+    "capture-the-flag": "https://overfast-api.tekrop.fr/static/gamemodes/capture-the-flag-icon.svg",
+    "control": "https://overfast-api.tekrop.fr/static/gamemodes/control-icon.svg",
+    "deathmatch": "https://overfast-api.tekrop.fr/static/gamemodes/deathmatch-icon.svg",
+    "elimination": "https://overfast-api.tekrop.fr/static/gamemodes/elimination-icon.svg",
+    "escort": "https://overfast-api.tekrop.fr/static/gamemodes/escort-icon.svg",
+    "flashpoint": "https://overfast-api.tekrop.fr/static/gamemodes/flashpoint-icon.svg",
+    "hybrid": "https://overfast-api.tekrop.fr/static/gamemodes/hybrid-icon.svg",
+    "push": "https://overfast-api.tekrop.fr/static/gamemodes/push-icon.svg",
+    "team-deathmatch": "https://overfast-api.tekrop.fr/static/gamemodes/team-deathmatch-icon.svg",
+}

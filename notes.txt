@@ -1,0 +1,7 @@
+Build command:
+eas build --platform android
+
+AAB to APK command:
+java -jar .\bundletool-all-1.17.1.jar build-apks --bundle=./infowatch.aab --output=./infowatch.apks --mode=universal
+
+Extract apks file to get universal apk file to install on device
