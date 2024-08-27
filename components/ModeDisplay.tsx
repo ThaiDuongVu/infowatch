@@ -1,6 +1,7 @@
 import React from "react";
 import { ActivityIndicator, Avatar, Card, TouchableRipple } from "react-native-paper";
 import { Image } from "react-native";
+import { SvgUri } from "react-native-svg";
 
 interface IModeDisplayProps {
   mode: {
@@ -19,7 +20,8 @@ const ModeDisplay = ({ mode }: IModeDisplayProps) => {
 
   const getIcon = () => {
     if (!mode) return <></>;
-    return <Avatar.Image source={{ uri: mode.icon }} size={32} />
+    return <SvgUri width="32" height="32" uri={mode.icon} />
+    // return <Avatar.Image source={{ uri: mode.icon }} size={32} />
   }
 
   return (
