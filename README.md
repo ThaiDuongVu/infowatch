@@ -34,7 +34,7 @@ A brief overview of major features of Infowatch:
 
 ## Video Demo
 
-<!-- <video width="270" height="540" controls>
+<video width="270" height="540" controls>
   <source src="https://github.com/ThaiDuongVu/infowatch/raw/refs/heads/main/media/video.mp4" type="video/mp4">
-</video> -->
-<iframe src="https://drive.google.com/file/d/1ESJuyyGHkHCW_TDi_V_7zhWMJPRmYQub/preview" width="640" height="480" allow="autoplay"></iframe>
+</video>
+<!-- <iframe src="https://drive.google.com/file/d/1ESJuyyGHkHCW_TDi_V_7zhWMJPRmYQub/preview" width="640" height="480" allow="autoplay"></iframe> -->
