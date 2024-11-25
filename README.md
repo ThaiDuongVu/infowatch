@@ -1,8 +1,12 @@
 # Infowatch
 
-Mobile/web app for viewing information regarding Overwatch heroes, maps, modes, and users.
+Mobile/web app for viewing information on Overwatch heroes, maps, modes, and users.
 
 <img src="./media/screenshot1.png" height=240px>
+
+## About
+
+Infowatch is built using React Native.
 
 ## Features
 
@@ -28,8 +32,9 @@ A brief overview of major features of Infowatch:
 <img src="./media/screenshot4.png" height=360px>
 <img src="./media/screenshot5.png" height=360px>
 
-<!-- ## Video Demo
+## Video Demo
 
-<video width="270" height="540" controls>
-  <source src="./media/video.mp4" type="video/mp4">
+<!-- <video width="270" height="540" controls>
+  <source src="https://github.com/ThaiDuongVu/infowatch/raw/refs/heads/main/media/video.mp4" type="video/mp4">
 </video> -->
+<iframe src="https://drive.google.com/file/d/1ESJuyyGHkHCW_TDi_V_7zhWMJPRmYQub/preview" width="640" height="480" allow="autoplay"></iframe>
