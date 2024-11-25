@@ -15,7 +15,7 @@ A brief overview of major features of Infowatch:
 5. Player competitive details
 6. Dark mode
 
-<!-- ### Hero details
+### Hero details
 
 ### Map details
 
@@ -23,4 +23,8 @@ A brief overview of major features of Infowatch:
 
 ## Screenshots
 
-## Video -->
+## Demo Video
+
+<video width="270" height="540" controls>
+  <source src="./media/video.mp4">
+</video>
