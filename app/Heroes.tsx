@@ -6,6 +6,7 @@ import LineBreak from "@/components/LineBreak";
 import HeroDisplayCompact from "@/components/HeroDisplayCompact";
 import HeroDialog from "@/components/HeroDialog";
 import Styles from "@/styles/Styles";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
 const Heroes = () => {
   // List of heroes
@@ -60,6 +61,12 @@ const Heroes = () => {
     handleFilter();
   }, [searchQuery, tanksSelected, dpsSelected, supportSelected]);
 
+  const [locale, setLocale] = useState("en-us");
+  useEffect(() => {
+    AsyncStorage.getItem("locale").then((data) => { if (data != null) setLocale(data); });
+    console.log(locale);
+  }, [locale]);
+
   return (
     <ScrollView>
       <AppBar title="Heroes" icon="account-group" />
@@ -104,7 +111,7 @@ const Heroes = () => {
                   <HeroDisplayCompact
                     hero={hero}
                     onPressed={() => {
-                      fetch(`https://overfast-api.tekrop.fr/heroes/${hero.key}`)
+                      fetch(`https://overfast-api.tekrop.fr/heroes/${hero.key}?locale=${locale}`)
                         .then(data => data.json())
                         .then(json => setHero(json)
                         );
