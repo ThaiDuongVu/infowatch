@@ -2,7 +2,7 @@
 
 Mobile/web app for viewing information regarding Overwatch heroes, maps, modes, and users.
 
-<img src="./media/screenshot1.png" height=250px>
+<img src="./media/screenshot1.png" height=240px>
 
 ## Features
 
@@ -23,8 +23,13 @@ A brief overview of major features of Infowatch:
 
 ## Screenshots
 
-## Demo Video
+<img src="./media/screenshot2.png" height=360px>
+<img src="./media/screenshot3.png" height=360px>
+<img src="./media/screenshot4.png" height=360px>
+<img src="./media/screenshot5.png" height=360px>
+
+<!-- ## Video Demo
 
 <video width="270" height="540" controls>
-  <source src="./media/video.mp4">
-</video>
+  <source src="./media/video.mp4" type="video/mp4">
+</video> -->
