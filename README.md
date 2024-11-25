@@ -6,7 +6,7 @@ Mobile/web app for viewing information on Overwatch heroes, maps, modes, and use
 
 ## About
 
-Infowatch is built using React Native.
+Infowatch is built using **React Native**. Data is fetched from a REST API called [Overfast](https://overfast-api.tekrop.fr/).
 
 ## Features
 
@@ -19,11 +19,11 @@ A brief overview of major features of Infowatch:
 5. Player competitive details
 6. Dark mode
 
-### Hero details
+<!-- ### Hero details
 
 ### Map details
 
-### Game mode details
+### Game mode details -->
 
 ## Screenshots
 
