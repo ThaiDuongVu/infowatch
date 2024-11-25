@@ -27,14 +27,23 @@ A brief overview of major features of Infowatch:
 
 ## Screenshots
 
-<img src="./media/screenshot2.png" height=360px>
-<img src="./media/screenshot3.png" height=360px>
-<img src="./media/screenshot4.png" height=360px>
-<img src="./media/screenshot5.png" height=360px>
+<a href="">
+    <img src="./media/screenshot2.png" height=360px>
+</a>
+<a href="">
+    <img src="./media/screenshot3.png" height=360px>
+</a>
+<a href="">
+    <img src="./media/screenshot4.png" height=360px>
+</a>
+<a href="">
+    <img src="./media/screenshot5.png" height=360px>
+</a>
 
 ## Video Demo
 
-<video width="270" height="540" controls>
+<img src="./media/video.gif" height=480px>
+<!-- <video width="270" height="540" controls>
   <source src="https://github.com/ThaiDuongVu/infowatch/raw/refs/heads/main/media/video.mp4" type="video/mp4">
-</video>
+</video> -->
 <!-- <iframe src="https://drive.google.com/file/d/1ESJuyyGHkHCW_TDi_V_7zhWMJPRmYQub/preview" width="640" height="480" allow="autoplay"></iframe> -->
