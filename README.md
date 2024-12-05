@@ -42,7 +42,7 @@ A brief overview of major features of Infowatch:
 
 ## Video Demo
 
-<img src="./media/video.gif" height=480px>
+<img src="./media/videox4.gif" height=480px>
 <!-- <video width="270" height="540" controls>
   <source src="https://github.com/ThaiDuongVu/infowatch/raw/refs/heads/main/media/video.mp4" type="video/mp4">
 </video> -->
